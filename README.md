@@ -4,7 +4,7 @@ This repository provides the reproducible workflow for extracting A–F ICU Libe
 
 ---
 
-## Repository Structure
+## 📁 Repository Structure
 
 | Folder/File | Description |
 |---|---|
@@ -13,7 +13,7 @@ This repository provides the reproducible workflow for extracting A–F ICU Libe
 
 ---
 
-## Getting Started
+## 📦 Getting Started
 
 To reproduce results you can either work locally with PhysioNet files or query the hosted copy in Google BigQuery. Both paths are outlined below.
 
