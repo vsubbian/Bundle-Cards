@@ -248,3 +248,18 @@ wget -r -N -c -np --user USERNAME --ask-password https://physionet.org/files/mim
 | Family Informed | • Yes<br>• No<br>• Not Applicable | SNOMED: 406141002,<br>ID: 4247377 | Observation |
 
 </details>
+
+
+## 🧬 Data Source
+The ontology was evaluated using data and clinical scenarios derived from the **MIMIC-IV**.  
+Access: [https://physionet.org/content/eicu-crd/](https://physionet.org/content/eicu-crd/](https://physionet.org/content/mimiciv/3.1/) (credentialed access required).
+
+---
+
+## 📬 Contact
+For questions or collaboration inquiries, please contact:
+
+**Md Fantacher Islam**  
+PhD Student, Systems and Industrial Engineering  
+University of Arizona  
+📧 fantacher@arizona.edu
