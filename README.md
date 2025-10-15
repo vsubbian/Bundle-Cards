@@ -44,16 +44,16 @@ Access: [https://physionet.org/content/mimiciv/3.1/](https://physionet.org/conte
 
 <a id="bundle-card-a"></a>
 <details open>
-<summary><strong>Bundle Card A - Assess, Prevent, and Manage Pain</strong></summary>
+<summary><h2><strong>Bundle Card A - Assess, Prevent, and Manage Pain</strong></h2></summary>
 
 ### Card Overview
 
 - **Card Definition:** A - Assessment, Prevention, and Management of Pain.
-- **Purpose:** To observe the pain level, assign the pain score, and document significant pain assessment.
+- **Purpose:** To observe the pain level, assign the pain score, and document a significant pain assessment.
 
 ### Assessment Instruments
 
-- **Critical Care Pain Observation Tool (CPOT)** is four-item scale - vocalization, body movements, facial expression, and muscle tension - each scored from 0 to 2.
+- **Critical Care Pain Observation Tool (CPOT)** is a four-item scale - vocalization, body movements, facial expression, and muscle tension - each scored from 0 to 2.
 - **Alternative pain assessment tools:** Numeric Pain Rating Scale (NRS), and Behavioral Pain Scale (BPS)
 
 ### Compliance Checks
@@ -95,7 +95,7 @@ Access: [https://physionet.org/content/mimiciv/3.1/](https://physionet.org/conte
 - Observe whether the sedative medium is continuous (IV-infusion) or intermittent (Bolus).
 
 ### Compliance Checks
-- Periodically stop or pause sedatives for mechanically intubated patients to help weaning from ventilation.
+- Periodically stop or pause sedatives for mechanically intubated patients to help wean from ventilation.
 - Record if patients were successfully weaned from mechanical ventilation during the trial.
 
 ### Mapping to Standard Vocabularies
