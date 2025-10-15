@@ -83,7 +83,7 @@ Access: [https://physionet.org/content/mimiciv/3.1/](https://physionet.org/conte
 ---
 
 <a id="bundle-card-b-part-i"></a>
-<details>
+<details open>
 <summary><h2><strong>Bundle Card B - Part I: Spontaneous Awakening Trials (SAT)</strong></h2></summary>
 
 ### Card Overview
@@ -111,7 +111,7 @@ Access: [https://physionet.org/content/mimiciv/3.1/](https://physionet.org/conte
 ---
 
 <h2 id="bundle-card-b-part-ii"></h2>
-<details>
+<details open>
 <summary><h2><strong>Bundle Card B - Part II: Spontaneous Breathing Trials (SBT)</strong></h2></summary>
 
 ### Card Overview
@@ -141,7 +141,7 @@ Access: [https://physionet.org/content/mimiciv/3.1/](https://physionet.org/conte
 ---
 
 <a id="bundle-card-c"></a>
-<details>
+<details open>
 <summary><h2><strong>Bundle Card C - Choice of Analgesia and Sedation (RASS)</strong></h2></summary>
 
 ### Card Overview
@@ -177,7 +177,7 @@ Access: [https://physionet.org/content/mimiciv/3.1/](https://physionet.org/conte
 ---
 
 <a id="bundle-card-d"></a>
-<details>
+<details open>
 <summary><h2><strong>Bundle Card D - Delirium: Assess, Prevent, and Manage (CAM-ICU)</strong></h2></summary>
 
 ### Card Overview
@@ -205,7 +205,7 @@ Access: [https://physionet.org/content/mimiciv/3.1/](https://physionet.org/conte
 ---
 
 <a id="bundle-card-e"></a>
-<details>
+<details open>
 <summary><h2><strong>Bundle Card E - Early Mobility and Exercise</strong></h2></summary>
 
 ### Card Overview
@@ -231,7 +231,7 @@ Access: [https://physionet.org/content/mimiciv/3.1/](https://physionet.org/conte
 ---
 
 <a id="bundle-card-f"></a>
-<details>
+<details open>
 <summary><h2><strong>Bundle Card F - Family Engagement and Empowerment</strong></h2></summary>
 
 ### Card Overview
