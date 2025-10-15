@@ -43,7 +43,7 @@ Access: [https://physionet.org/content/mimiciv/3.1/](https://physionet.org/conte
 ---
 
 <a id="bundle-card-a"></a>
-<details>
+<details open>
 <summary><strong>Bundle Card A - Assess, Prevent, and Manage Pain</strong></summary>
 
 ### Card Overview
