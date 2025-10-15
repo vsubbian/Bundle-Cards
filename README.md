@@ -1,5 +1,33 @@
 # ICU Liberation Bundle Cards
 
+This repository provides the reproducible workflow for extracting A–F ICU Liberation Bundle elements from MIMIC-IV v3.1, including regular expressions, example SQL, and a notebook that assembles the bundle cards. The goal is to make the identification logic transparent and portable across environments while adhering to data-use requirements.
+
+---
+
+## Repository Structure
+
+| Folder/File | Description |
+|---|---|
+| **A-F Liberation Bundle Cards.ipynb** | Jupyter notebook implementing the end-to-end workflow: environment setup, BigQuery access, regex definitions, SQL queries, and card generation. |
+| **README.md** | Project overview, setup instructions, and reproducibility notes. |
+
+---
+
+## Getting Started
+
+To reproduce results you can either work locally with PhysioNet files or query the hosted copy in Google BigQuery. Both paths are outlined below.
+
+### Option A — PhysioNet files (local)
+
+After you complete the credentialed-access steps described under **Data Source**, you may download the dataset directly or via the command line. The example below mirrors the dialog shown in the PhysioNet file browser.
+
+```bash
+# Replace USERNAME with your PhysioNet username; you will be prompted for your password.
+wget -r -N -c -np --user USERNAME --ask-password https://physionet.org/files/mimiciv/3.1/
+
+
+# ICU Liberation Bundle Cards
+
 [Bundle Card A - Assess, Prevent, and Manage Pain](#bundle-card-a)  
 [Bundle Card B - Part I: Spontaneous Awakening Trials (SAT)](#bundle-card-b-part-i)  
 [Bundle Card B - Part II: Spontaneous Breathing Trials (SBT)](#bundle-card-b-part-ii)  
