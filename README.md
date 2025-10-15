@@ -8,7 +8,7 @@ This repository provides the reproducible workflow for extracting A–F ICU Libe
 
 | File | Description |
 |---|---|
-| **A-F Liberation Bundle Cards.ipynb** | Jupyter notebook implementing the end-to-end workflow: environment setup, BigQuery access, regex definitions, SQL queries, and card generation. |
+| **A-F Liberation Bundle Cards.ipynb** | Jupyter notebook implementing the end-to-end workflow: environment setup, BigQuery access, regex definitions, and SQL queries. |
 | **README.md** | Project overview, setup instructions, and reproducibility notes. |
 
 ---
