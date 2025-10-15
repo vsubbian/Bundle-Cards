@@ -17,7 +17,7 @@ This repository provides the reproducible workflow for extracting A–F ICU Libe
 
 To reproduce results, you can either work locally with PhysioNet files or query the hosted copy in Google BigQuery. Both paths are outlined below.
 
-After you complete the credentialed-access steps described under **Data Source**, you may download the dataset directly or via the command line. The example below mirrors the dialog shown in the PhysioNet file browser.
+After you complete the credentialed-access steps described under **MIMIC-IV Data Source**, you may download the dataset directly or via the command line. The example below mirrors the dialog shown in the PhysioNet file browser.
 
 ```bash
 # Replace USERNAME with your PhysioNet username; you will be prompted for your password.
@@ -26,11 +26,11 @@ wget -r -N -c -np --user USERNAME --ask-password https://physionet.org/files/mim
 ---
 
 ## 🧬 MIMIC-IV Data Source
-The ontology was evaluated using data and clinical scenarios derived from the **MIMIC-IV**.  
+The bundle cards were evaluated using data and clinical scenarios derived from the **MIMIC-IV**.  
 Access: [https://physionet.org/content/eicu-crd/](https://physionet.org/content/eicu-crd/](https://physionet.org/content/mimiciv/3.1/) (credentialed access required).
 
 
-# ICU Liberation Bundle Cards
+# Bundle Cards
 
 [Bundle Card A - Assess, Prevent, and Manage Pain](#bundle-card-a)  
 [Bundle Card B - Part I: Spontaneous Awakening Trials (SAT)](#bundle-card-b-part-i)  
