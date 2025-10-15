@@ -24,7 +24,7 @@ After you complete the credentialed-access steps described under **Data Source**
 ```bash
 # Replace USERNAME with your PhysioNet username; you will be prompted for your password.
 wget -r -N -c -np --user USERNAME --ask-password https://physionet.org/files/mimiciv/3.1/
-
+```
 
 # ICU Liberation Bundle Cards
 
