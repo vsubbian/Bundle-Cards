@@ -44,7 +44,7 @@ Access: [https://physionet.org/content/mimiciv/3.1/](https://physionet.org/conte
 
 <a id="bundle-card-a"></a>
 <details open>
-<summary><h1><strong>Bundle Card A - Assess, Prevent, and Manage Pain</strong></h1></summary>
+<summary><h2><strong>Bundle Card A - Assess, Prevent, and Manage Pain</strong></h2></summary>
 
 ### Card Overview
 
@@ -84,7 +84,7 @@ Access: [https://physionet.org/content/mimiciv/3.1/](https://physionet.org/conte
 
 <a id="bundle-card-b-part-i"></a>
 <details>
-<summary><h1><strong>Bundle Card B - Part I: Spontaneous Awakening Trials (SAT)</strong></h1></summary>
+<summary><h2><strong>Bundle Card B - Part I: Spontaneous Awakening Trials (SAT)</strong></h2></summary>
 
 ### Card Overview
 - **Card Definition:** B: SAT - Spontaneous Awakening Trials.
@@ -112,7 +112,7 @@ Access: [https://physionet.org/content/mimiciv/3.1/](https://physionet.org/conte
 
 <h2 id="bundle-card-b-part-ii"></h2>
 <details>
-<summary><h1><strong>Bundle Card B - Part II: Spontaneous Breathing Trials (SBT)</strong></h1></summary>
+<summary><h2><strong>Bundle Card B - Part II: Spontaneous Breathing Trials (SBT)</strong></h2></summary>
 
 ### Card Overview
 - **Card Definition:** B: SBT - Spontaneous Breathing Trials.
@@ -142,7 +142,7 @@ Access: [https://physionet.org/content/mimiciv/3.1/](https://physionet.org/conte
 
 <a id="bundle-card-c"></a>
 <details>
-<summary><h1><strong>Bundle Card C - Choice of Analgesia and Sedation (RASS)</strong></h1></summary>
+<summary><h2><strong>Bundle Card C - Choice of Analgesia and Sedation (RASS)</strong></h2></summary>
 
 ### Card Overview
 - **Card Definition:** C - Choice of Analgesia and Sedation levels
@@ -178,7 +178,7 @@ Access: [https://physionet.org/content/mimiciv/3.1/](https://physionet.org/conte
 
 <a id="bundle-card-d"></a>
 <details>
-<summary><h1><strong>Bundle Card D - Delirium: Assess, Prevent, and Manage (CAM-ICU)</strong></h1></summary>
+<summary><h2><strong>Bundle Card D - Delirium: Assess, Prevent, and Manage (CAM-ICU)</strong></h2></summary>
 
 ### Card Overview
 - **Card Definition:** D: Delirium: Assess, Prevent, and Manage
@@ -206,7 +206,7 @@ Access: [https://physionet.org/content/mimiciv/3.1/](https://physionet.org/conte
 
 <a id="bundle-card-e"></a>
 <details>
-<summary><h1><strong>Bundle Card E - Early Mobility and Exercise</strong></h1></summary>
+<summary><h2><strong>Bundle Card E - Early Mobility and Exercise</strong></h2></summary>
 
 ### Card Overview
 - **Card Definition:** E - Early Mobility and Exercise
@@ -232,7 +232,7 @@ Access: [https://physionet.org/content/mimiciv/3.1/](https://physionet.org/conte
 
 <a id="bundle-card-f"></a>
 <details>
-<summary><h1><strong>Bundle Card F - Family Engagement and Empowerment</strong></h1></summary>
+<summary><h2><strong>Bundle Card F - Family Engagement and Empowerment</strong></h2></summary>
 
 ### Card Overview
 - **Card Definition:** F - Family Engagement and Empowerment
