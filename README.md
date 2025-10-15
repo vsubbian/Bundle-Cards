@@ -6,7 +6,7 @@ This repository provides the reproducible workflow for extracting A–F ICU Libe
 
 ## 📁 Repository Structure
 
-| Folder/File | Description |
+| File | Description |
 |---|---|
 | **A-F Liberation Bundle Cards.ipynb** | Jupyter notebook implementing the end-to-end workflow: environment setup, BigQuery access, regex definitions, SQL queries, and card generation. |
 | **README.md** | Project overview, setup instructions, and reproducibility notes. |
@@ -15,9 +15,7 @@ This repository provides the reproducible workflow for extracting A–F ICU Libe
 
 ## 📦 Getting Started
 
-To reproduce results you can either work locally with PhysioNet files or query the hosted copy in Google BigQuery. Both paths are outlined below.
-
-### Option A — PhysioNet files (local)
+To reproduce results, you can either work locally with PhysioNet files or query the hosted copy in Google BigQuery. Both paths are outlined below.
 
 After you complete the credentialed-access steps described under **Data Source**, you may download the dataset directly or via the command line. The example below mirrors the dialog shown in the PhysioNet file browser.
 
