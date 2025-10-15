@@ -27,7 +27,7 @@ wget -r -N -c -np --user USERNAME --ask-password https://physionet.org/files/mim
 
 ## 🧬 MIMIC-IV Data Source
 The bundle cards were evaluated using data and clinical scenarios derived from the **MIMIC-IV**.  
-Access: [https://physionet.org/content/eicu-crd/](https://physionet.org/content/eicu-crd/](https://physionet.org/content/mimiciv/3.1/) (credentialed access required).
+Access: [https://physionet.org/content/mimiciv/3.1/](https://physionet.org/content/mimiciv/3.1/) (credentialed access required).
 
 
 # Bundle Cards
