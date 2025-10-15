@@ -20,7 +20,7 @@ To reproduce results, you can either work locally with PhysioNet files or query 
 After you complete the credentialed-access steps described under **MIMIC-IV Data Source**, you may download the dataset directly or via the command line. The example below mirrors the dialog shown in the PhysioNet file browser.
 
 ```bash
-# Replace USERNAME with your PhysioNet username; you will be prompted for your password.
+# Replace USERNAME with your PhysioNet username.
 wget -r -N -c -np --user USERNAME --ask-password https://physionet.org/files/mimiciv/3.1/
 ```
 ---
