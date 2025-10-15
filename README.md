@@ -1,6 +1,6 @@
 # ICU Liberation Bundle Cards
 
-This repository provides the reproducible workflow for extracting A–F ICU Liberation Bundle elements from MIMIC-IV v3.1, including regular expressions, example SQL, and a notebook that assembles the bundle cards. The goal is to make the identification logic transparent and portable across environments while adhering to data-use requirements.
+This repository provides the reproducible workflow for extracting A–F ICU Liberation Bundle elements from MIMIC-IV v3.1, including regular expressions, and a notebook that assembles the bundle cards. The goal is to make the identification logic transparent and portable across environments while adhering to data-use requirements.
 
 ---
 
