@@ -101,10 +101,10 @@ Access: [https://physionet.org/content/mimiciv/3.1/](https://physionet.org/conte
 ### Mapping to Standard Vocabularies
 | Clinical Concept | Concept Values | Standardized Vocabulary: Code,<br>Concept ID | CDM Table |
 |------------------|----------------|-------------------------------------------|-----------|
-| Sedative | Midazolam, Propofol, Lorazepam,<br>Dexmedetomidine, etc. | SNOMED: 372614000 | Drug |
-| Sedative Route | • Continuously Infused<br>• Intermittent/Bolus Scheduled<br>• PRN ("as needed") | SNOMED: 72641008 | Procedure |
-| SAT Assessment | Sedative Medication Stopped or<br>Paused | SNOMED: 241713008 | Procedure |
-| SAT Failure | • Anxiety, agitation, or pain<br>• Respiratory rate > 35/min<br>• Oxygen saturation < 88%<br>• Respiratory distress<br>• Acute cardiac arrhythmia | SNOMED | Observation |
+| Sedative | Midazolam, Propofol, Lorazepam,<br>Dexmedetomidine, etc. | SNOMED: 372614000,<br>ID: 4156741| Drug |
+| Sedative Route | • Continuously Infused<br>• Intermittent/Bolus Scheduled<br>• PRN ("as needed") | SNOMED: 72641008,<br>ID: 4219502 | Procedure |
+| SAT Assessment | Sedative Medication Stopped or<br>Paused | SNOMED: 424282004,<br>ID: 4312631 | Procedure |
+| SAT Failure | • Anxiety, agitation, or pain<br>• Respiratory rate > 35/min<br>• Oxygen saturation < 88%<br>• Respiratory distress<br>• Acute cardiac arrhythmia | SNOMED: 407563006,<br>ID: 4253173 | Observation |
 
 </details>
 
@@ -131,9 +131,9 @@ Access: [https://physionet.org/content/mimiciv/3.1/](https://physionet.org/conte
 |------------------|----------------|-------------------------------------------|-----------|
 | Ventilation Modes | • PSV: Pressure Support Ventilation<br>• SPONT: Spontaneous<br>• CPAP: Continuous Positive Airway Pressure<br>• SIMV: Synchronized Intermittent Mandatory Ventilation<br>• APRV: Airway Pressure Release Ventilation | SNOMED: 1258885005,<br>ID: 37158404 | Procedure |
 | SBT Started | Yes or No | LOINC: 93203-8,<br>ID: 1001774 | Observation |
-| SBT Stopped | • RR > 35 for >5 min<br>• Accessory Muscle Use<br>• SpO₂ <90% for >2 min<br>• BP >180 or <90<br>• HR >140<br>• Arrhythmia | LOINC | Observation |
+| SBT Stopped | • RR > 35 for >5 min<br>• Accessory Muscle Use<br>• SpO₂ <90% for >2 min<br>• BP >180 or <90<br>• HR >140<br>• Arrhythmia | SNOMED: 407563006,<br>ID: 4253173 | Observation |
 | SBT Completion | Yes or No | LOINC: 87542-7,<br>ID: 36305814 | Observation |
-| SBT Deferred | • Unable to perform RSBI<br>• Chronic vent dependent patient<br>• Pending procedure<br>• RSBI > 105 | LOINC | Observation |
+| SBT Deferred | • Unable to perform RSBI<br>• Chronic vent dependent patient<br>• Pending procedure<br>• RSBI > 105 | SNOMED: 416237000,<br>ID: 4168192 | Observation |
 *RSBI: Rapid shallow breathing index*
 
 </details>
@@ -159,8 +159,8 @@ Access: [https://physionet.org/content/mimiciv/3.1/](https://physionet.org/conte
 ### Mapping to Standard Vocabularies
 | Clinical Concept | Concept Values | Standardized Vocabulary: Code,<br>Concept ID | CDM Table |
 |------------------|----------------|-------------------------------------------|-----------|
-| RASS Score | Ranges: +4 (Combative) to -5 (Unarousable) | OMOP Extension: OMOP50429(54)-(63),<br>ID: 7050(06)-(15) | Measurement |
-| Goal RASS Score | Ranges: 0 (Alert and Calm) to -2 (Light sedation). | OMOP Extension: OMOP50429(58)-(60),<br>ID: 7050(09)-(11) | Observation |
+| RASS Score | Ranges: +4 (Combative) to -5 (Unarousable) | SNOMED: 457441000124102,<br>ID: 36684829 | Measurement |
+| Goal RASS Score | Ranges: 0 (Alert and Calm) to -2 (Light sedation). | SNOMED: 457441000124102,<br>ID: 36684829 | Measurement |
 | Sedative Medications | See list below | RxNorm | Drug |
 | Analgesic Medications | See list below | RxNorm | Drug |
 
