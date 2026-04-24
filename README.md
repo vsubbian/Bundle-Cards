@@ -2,7 +2,7 @@
 
 This repository provides the reproducible workflow for extracting A–F ICU Liberation Bundle elements from MIMIC-IV v3.1, including regular expressions, and a notebook that assembles the bundle cards. The goal is to make the identification logic transparent and portable across environments while adhering to data-use requirements.
 
-To access the full article, please follow:  [10.1055/a-2802-7458]([10.1055/a-2802-7458](https://www.thieme-connect.com/products/ejournals/abstract/10.1055/a-2802-7458))
+To access the full article, please follow:  [10.1055/a-2802-7458](https://www.thieme-connect.com/products/ejournals/abstract/10.1055/a-2802-7458)
 
 ---
 
