@@ -4,21 +4,6 @@ This repository provides the reproducible workflow for extracting A–F ICU Libe
 
 To access the full article, please follow:  [10.1055/a-2802-7458](https://www.thieme-connect.com/products/ejournals/abstract/10.1055/a-2802-7458)
 
-## Citation
-
-```bibtex
-@article{islam2026icu,
-  title={Standardizing Data Elements for Implementation of ICU Liberation Bundle},
-  author={Islam, Md Fantacher and Douglas, Molly and Mosier, Jarrod and Subbian, Vignesh},
-  journal={Applied Clinical Informatics},
-  volume={17},
-  number={1},
-  pages={52--59},
-  year={2026},
-  publisher={Thieme},
-  doi={10.1055/a-2802-7458}
-}
-```
 ---
 
 ## 📁 Repository Structure
@@ -271,6 +256,21 @@ Access: [https://physionet.org/content/mimiciv/3.1/](https://physionet.org/conte
 </details>
 
 ---
+## Citation
+
+```bibtex
+@article{islam2026icu,
+  title={Standardizing Data Elements for Implementation of ICU Liberation Bundle},
+  author={Islam, Md Fantacher and Douglas, Molly and Mosier, Jarrod and Subbian, Vignesh},
+  journal={Applied Clinical Informatics},
+  volume={17},
+  number={1},
+  pages={52--59},
+  year={2026},
+  publisher={Thieme},
+  doi={10.1055/a-2802-7458}
+}
+```
 
 ## 📬 Contact
 For questions or collaboration inquiries, please contact:
