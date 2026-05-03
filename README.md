@@ -2,7 +2,33 @@
 
 This repository provides the reproducible workflow for extracting A–F ICU Liberation Bundle elements from MIMIC-IV v3.1, including regular expressions, and a notebook that assembles the bundle cards. The goal is to make the identification logic transparent and portable across environments while adhering to data-use requirements.
 
-To access the full article, please follow:  [10.1055/a-2802-7458](https://www.thieme-connect.com/products/ejournals/abstract/10.1055/a-2802-7458)
+## Citation
+
+If you use this work, please cite:
+
+[![DOI](https://img.shields.io/badge/DOI-10.1055%2Fa--2802--7458-blue)](https://doi.org/10.1055/a-2802-7458)
+
+Islam MF, Douglas M, Mosier J, Subbian V. **Standardizing Data Elements for 
+Implementation of ICU Liberation Bundle.** *Applied Clinical Informatics.* 
+2026;17(1):52-59. doi:10.1055/a-2802-7458
+
+<details>
+<summary>BibTeX</summary>
+
+```bibtex
+@article{islam2026icu,
+  title={Standardizing Data Elements for Implementation of ICU Liberation Bundle},
+  author={Islam, Md Fantacher and Douglas, Molly and Mosier, Jarrod and Subbian, Vignesh},
+  journal={Applied Clinical Informatics},
+  volume={17},
+  number={1},
+  pages={52--59},
+  year={2026},
+  doi={10.1055/a-2802-7458}
+}
+```
+
+</details>
 
 ---
 
@@ -256,21 +282,6 @@ Access: [https://physionet.org/content/mimiciv/3.1/](https://physionet.org/conte
 </details>
 
 ---
-## Citation
-
-```bibtex
-@article{islam2026icu,
-  title={Standardizing Data Elements for Implementation of ICU Liberation Bundle},
-  author={Islam, Md Fantacher and Douglas, Molly and Mosier, Jarrod and Subbian, Vignesh},
-  journal={Applied Clinical Informatics},
-  volume={17},
-  number={1},
-  pages={52--59},
-  year={2026},
-  publisher={Thieme},
-  doi={10.1055/a-2802-7458}
-}
-```
 
 ## 📬 Contact
 For questions or collaboration inquiries, please contact:
