@@ -8,15 +8,13 @@ If you use this work, please cite:
 
 [![DOI](https://img.shields.io/badge/DOI-10.1055%2Fa--2802--7458-blue)](https://doi.org/10.1055/a-2802-7458)
 
-Islam MF, Douglas M, Mosier J, Subbian V. **Standardizing Data Elements for 
-Implementation of ICU Liberation Bundle.** *Applied Clinical Informatics.* 
-2026;17(1):52-59. doi:10.1055/a-2802-7458
+Islam MF, Douglas M, Mosier J, Subbian V. **Standardizing Data Elements for Implementation of ICU Liberation Bundle.** *Applied Clinical Informatics.* 2026;17(1):52-59. doi:10.1055/a-2802-7458
 
 <details>
 <summary>BibTeX</summary>
 
 ```bibtex
-@article{islam2026icu,
+@article{10.1055/a-2802-7458,
   title={Standardizing Data Elements for Implementation of ICU Liberation Bundle},
   author={Islam, Md Fantacher and Douglas, Molly and Mosier, Jarrod and Subbian, Vignesh},
   journal={Applied Clinical Informatics},
