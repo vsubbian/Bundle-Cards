@@ -20,7 +20,7 @@ Islam MF, Douglas M, Mosier J, Subbian V. **Standardizing Data Elements for Impl
   journal={Applied Clinical Informatics},
   volume={17},
   number={1},
-  pages={52--59},
+  pages={52-59},
   year={2026},
   doi={10.1055/a-2802-7458}
 }
